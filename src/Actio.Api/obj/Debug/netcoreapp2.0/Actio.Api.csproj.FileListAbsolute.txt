@@ -1,0 +1,14 @@
+C:\code\udemy_netcore_microservices\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csprojAssemblyReference.cache
+C:\code\udemy_netcore_microservices\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csproj.CoreCompileInputs.cache
+C:\code\udemy_netcore_microservices\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.AssemblyInfoInputs.cache
+C:\code\udemy_netcore_microservices\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.AssemblyInfo.cs
+C:\code\udemy_netcore_microservices\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.deps.json
+C:\code\udemy_netcore_microservices\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.runtimeconfig.json
+C:\code\udemy_netcore_microservices\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.runtimeconfig.dev.json
+C:\code\udemy_netcore_microservices\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.dll
+C:\code\udemy_netcore_microservices\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.pdb
+C:\code\udemy_netcore_microservices\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Common.dll
+C:\code\udemy_netcore_microservices\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\code\udemy_netcore_microservices\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csproj.CopyComplete
+C:\code\udemy_netcore_microservices\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.dll
+C:\code\udemy_netcore_microservices\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.pdb
